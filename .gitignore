@@ -1,4 +1,3 @@
-
 House_Prices/ignore/
 MNIST_digits/MNIST_data/
 MNIST_digits/dataset/
@@ -11,6 +10,7 @@ Disaster_tweets/notebook1/dataset/
 Disaster_tweets/notebook1/ignore/
 Disaster_tweets/notebook1/model/
 Disaster_tweets/notebook2/input/
+Disaster_tweets/notebook2/output/saved_model/
 House_Prices/dataset/
 titanic/model/
 __*
