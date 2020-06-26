@@ -1,8 +1,12 @@
 House_Prices/ignore/
-MNIST_digits/MNIST_data/
-MNIST_digits/dataset/
-MNIST_digits/.ipynb_checkpoints
-MNIST_digits/models/
+House_Prices/dataset/
+
+MNIST_digits/notebook1/MNIST_data/
+MNIST_digits/notebook1/dataset/
+MNIST_digits/notebook1/.ipynb_checkpoints
+MNIST_digits/notebook1/models/
+MNIST_digits/notebook2/input/
+
 Disaster_tweets/dataset/
 Disaster_tweets/models/
 Disaster_tweets/ignore/
@@ -11,8 +15,9 @@ Disaster_tweets/notebook1/ignore/
 Disaster_tweets/notebook1/model/
 Disaster_tweets/notebook2/input/
 Disaster_tweets/notebook2/output/saved_model/
-House_Prices/dataset/
+
 titanic/model/
+
 __*
 .*
 !/.gitignore
