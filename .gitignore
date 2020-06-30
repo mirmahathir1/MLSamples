@@ -6,6 +6,7 @@ MNIST_digits/notebook1/dataset/
 MNIST_digits/notebook1/.ipynb_checkpoints
 MNIST_digits/notebook1/models/
 MNIST_digits/notebook2/input/
+MNIST_digits/notebook2/output/saved_model/
 
 Disaster_tweets/dataset/
 Disaster_tweets/models/
