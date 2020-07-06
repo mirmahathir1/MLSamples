@@ -1,5 +1,7 @@
-House_Prices/ignore/
-House_Prices/dataset/
+House_Prices/notebook1/ignore/
+House_Prices/notebook1/dataset/
+House_Prices/notebook2/input/
+House_Prices/notebook2/output/saved_model/
 
 MNIST_digits/notebook1/MNIST_data/
 MNIST_digits/notebook1/dataset/
