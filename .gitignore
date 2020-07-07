@@ -19,7 +19,11 @@ Disaster_tweets/notebook1/model/
 Disaster_tweets/notebook2/input/
 Disaster_tweets/notebook2/output/saved_model/
 
-titanic/model/
+titanic/notebook1/model/
+titanic/notebook2/input/
+titanic/notebook2/output/saved_model/
+
+Datasets/
 
 __*
 .*
