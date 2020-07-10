@@ -1,27 +1,27 @@
-House_Prices/notebook1/ignore/
-House_Prices/notebook1/dataset/
-House_Prices/notebook2/input/
-House_Prices/notebook2/output/saved_model/
+Kaggle_House_Prices/notebook1/ignore/
+Kaggle_House_Prices/notebook1/dataset/
+Kaggle_House_Prices/notebook2/input/
+Kaggle_House_Prices/notebook2/output/saved_model/
 
-MNIST_digits/notebook1/MNIST_data/
-MNIST_digits/notebook1/dataset/
-MNIST_digits/notebook1/.ipynb_checkpoints
-MNIST_digits/notebook1/models/
-MNIST_digits/notebook2/input/
-MNIST_digits/notebook2/output/saved_model/
+Kaggle_MNIST_digits/notebook1/MNIST_data/
+Kaggle_MNIST_digits/notebook1/dataset/
+Kaggle_MNIST_digits/notebook1/.ipynb_checkpoints
+Kaggle_MNIST_digits/notebook1/models/
+Kaggle_MNIST_digits/notebook2/input/
+Kaggle_MNIST_digits/notebook2/output/saved_model/
 
-Disaster_tweets/dataset/
-Disaster_tweets/models/
-Disaster_tweets/ignore/
-Disaster_tweets/notebook1/dataset/
-Disaster_tweets/notebook1/ignore/
-Disaster_tweets/notebook1/model/
-Disaster_tweets/notebook2/input/
-Disaster_tweets/notebook2/output/saved_model/
+Kaggle_Disaster_tweets/dataset/
+Kaggle_Disaster_tweets/models/
+Kaggle_Disaster_tweets/ignore/
+Kaggle_Disaster_tweets/notebook1/dataset/
+Kaggle_Disaster_tweets/notebook1/ignore/
+Kaggle_Disaster_tweets/notebook1/model/
+Kaggle_Disaster_tweets/notebook2/input/
+Kaggle_Disaster_tweets/notebook2/output/saved_model/
 
-titanic/notebook1/model/
-titanic/notebook2/input/
-titanic/notebook2/output/saved_model/
+Kaggle_titanic/notebook1/model/
+Kaggle_titanic/notebook2/input/
+Kaggle_titanic/notebook2/output/saved_model/
 
 Datasets/
 
